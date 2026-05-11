@@ -1,6 +1,6 @@
 Technical Communication:
 
-I selected Beets PR #3279 [https://github.com/beetbox/beets/pull/3279?utm_source=chatgpt.com]
+I selected Beets PR #3279 [https://github.com/beetbox/beets/pull/3279]
 because it was comparatively easier to understand than many of the other pull requests provided in the assessment. The PR mainly focuses on improving metadata validation and import handling, which are concepts that are easier to follow through documentation, file changes, and workflow analysis. Some of the other repositories involved more complex distributed systems, asynchronous processing, or large-scale infrastructure changes that required deeper domain knowledge. In comparison, this PR had a clearer workflow and a more understandable implementation scope.
 
 My technical background in Python programming, data handling, and software development fundamentals helped me understand the repository structure and the purpose of the changes introduced in this PR. I have experience working with Python-based projects involving data validation, file handling, and structured workflows, which made it easier for me to analyze how metadata processing and import pipelines function within the Beets repository. I was also able to follow the relationship between metadata extraction, validation logic, and library organization features
